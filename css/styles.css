@@ -9,12 +9,12 @@
   --orange: #bd5d38;
   --yellow: #ffc107;
   --green: #28a745;
-  --teal:  #bd5d38;
+  --teal:  #20c997;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #20c997;;
+  --primary: #bd5d38;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -6087,7 +6087,8 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+ 
+  background-color: #9C6F69!important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9789,7 +9790,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #9C6F69 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10124,3 +10125,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* Custom css here */
+
